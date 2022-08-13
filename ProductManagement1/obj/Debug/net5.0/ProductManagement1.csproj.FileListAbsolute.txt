@@ -1,0 +1,46 @@
+C:\Users\ASUS\source\repos\Bài tập\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Bài tập\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Bài tập\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Bài tập\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Bài tập\ProductManagement1\ProductManagement1\bin\Debug\net5.0\ProductManagement1.exe
+C:\Users\ASUS\source\repos\Bài tập\ProductManagement1\ProductManagement1\bin\Debug\net5.0\ProductManagement1.deps.json
+C:\Users\ASUS\source\repos\Bài tập\ProductManagement1\ProductManagement1\bin\Debug\net5.0\ProductManagement1.runtimeconfig.json
+C:\Users\ASUS\source\repos\Bài tập\ProductManagement1\ProductManagement1\bin\Debug\net5.0\ProductManagement1.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Bài tập\ProductManagement1\ProductManagement1\bin\Debug\net5.0\ProductManagement1.dll
+C:\Users\ASUS\source\repos\Bài tập\ProductManagement1\ProductManagement1\bin\Debug\net5.0\ref\ProductManagement1.dll
+C:\Users\ASUS\source\repos\Bài tập\ProductManagement1\ProductManagement1\bin\Debug\net5.0\ProductManagement1.pdb
+C:\Users\ASUS\source\repos\Bài tập\ProductManagement1\ProductManagement1\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\Bài tập\ProductManagement1\ProductManagement1\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\source\repos\Bài tập\ProductManagement1\ProductManagement1\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\source\repos\Bài tập\ProductManagement1\ProductManagement1\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\source\repos\Bài tập\ProductManagement1\ProductManagement1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\Bài tập\ProductManagement1\ProductManagement1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\Bài tập\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Bài tập\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.dll
+C:\Users\ASUS\source\repos\Bài tập\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ref\ProductManagement1.dll
+C:\Users\ASUS\source\repos\Bài tập\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.pdb
+C:\Users\ASUS\source\repos\Bài tập\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Bài tập\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.csproj.AssemblyReference.cache
+D:\FPT CN 5\PRN-cn5\ProductManagement1\ProductManagement1\bin\Debug\net5.0\ProductManagement1.exe
+D:\FPT CN 5\PRN-cn5\ProductManagement1\ProductManagement1\bin\Debug\net5.0\ProductManagement1.deps.json
+D:\FPT CN 5\PRN-cn5\ProductManagement1\ProductManagement1\bin\Debug\net5.0\ProductManagement1.runtimeconfig.json
+D:\FPT CN 5\PRN-cn5\ProductManagement1\ProductManagement1\bin\Debug\net5.0\ProductManagement1.runtimeconfig.dev.json
+D:\FPT CN 5\PRN-cn5\ProductManagement1\ProductManagement1\bin\Debug\net5.0\ProductManagement1.dll
+D:\FPT CN 5\PRN-cn5\ProductManagement1\ProductManagement1\bin\Debug\net5.0\ProductManagement1.pdb
+D:\FPT CN 5\PRN-cn5\ProductManagement1\ProductManagement1\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\FPT CN 5\PRN-cn5\ProductManagement1\ProductManagement1\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\FPT CN 5\PRN-cn5\ProductManagement1\ProductManagement1\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\FPT CN 5\PRN-cn5\ProductManagement1\ProductManagement1\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\FPT CN 5\PRN-cn5\ProductManagement1\ProductManagement1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FPT CN 5\PRN-cn5\ProductManagement1\ProductManagement1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FPT CN 5\PRN-cn5\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.csproj.AssemblyReference.cache
+D:\FPT CN 5\PRN-cn5\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT CN 5\PRN-cn5\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.AssemblyInfoInputs.cache
+D:\FPT CN 5\PRN-cn5\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.AssemblyInfo.cs
+D:\FPT CN 5\PRN-cn5\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.csproj.CoreCompileInputs.cache
+D:\FPT CN 5\PRN-cn5\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.csproj.CopyComplete
+D:\FPT CN 5\PRN-cn5\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.dll
+D:\FPT CN 5\PRN-cn5\ProductManagement1\ProductManagement1\obj\Debug\net5.0\refint\ProductManagement1.dll
+D:\FPT CN 5\PRN-cn5\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.pdb
+D:\FPT CN 5\PRN-cn5\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.genruntimeconfig.cache
+D:\FPT CN 5\PRN-cn5\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ref\ProductManagement1.dll
